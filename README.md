@@ -1,2 +1,2 @@
-# Android-BluetoothEx03
-Android Bluetooth On/Off, Pairing Example
+# Android-Java-BluetoothEx03
+Android Java Bluetooth On/Off, Pairing Example
